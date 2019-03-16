@@ -1,0 +1,182 @@
+
+#container{
+margin:0 20 0 20;
+}
+#container p{
+border:solid 4px #967425;
+background-color:#b254f4;
+float:left;
+width:75;
+height:30;
+padding:10 30 0 30;
+margin:0 0 0 0;
+font-family:Rockwell;
+}
+
+#container marquee{
+float:left;
+border:solid 4px #000;
+width:950;
+height:30;
+padding:10 80 0 0;
+color:#fff;
+font-family:Rockwell;
+}
+
+#header{
+border:solid 1px #000;
+background-image:url(gambar/h.jpg);
+height:140;
+padding:30 0 0 30;
+}
+
+#header h3{
+font-size:40;
+font-family:Brush Script Std;
+}
+#header p{
+font-size:20;
+font-family:forte;
+font-weight:200;
+margin:-50 0 0 0;
+}
+#topmenu{
+border:solid 1px #000;
+height:100;
+}
+
+#topmenu li{
+border:solid 1px #000;
+float:left;
+padding:15 83 15 80;
+background-color:#00ff00;
+text-decoration:none;
+list-style:none;
+color:#654321;
+font-family:Adobe Gothic Std B;
+font-size:20;
+}
+
+#topmenu li:hover{
+background-color:#123456;
+color:#fff;
+border:solid 4px #fff;
+}
+
+#content{
+border:solid 5px #000;
+width:600;float:left;
+margin:0 0 0 150;
+font-family:Century Gothic;
+font-weight:800;
+background-color:#blue;
+text-indent:10;
+padding:20 20 0 20;
+}
+
+#content h4{
+color:#fff;
+}
+
+#menu{
+border:solid 5px #000;
+width:300;float:left;
+padding:20 10 20 3;
+height:420;
+background-color:#990088;
+}
+#menu img{
+border:solid 5px #000;
+width:85;
+margin:5 0 10 5;
+height:80;
+}
+
+#d {
+width:55;
+height:45;
+position: fixed;
+margin:70 100 0 0;
+}
+
+#d img{
+width:30;
+float:left;
+}
+
+#d img:hover{
+width:50;
+}
+#d table{
+text-decoration:none;
+list-style:none;
+background-color:#ff0000;
+}
+
+#menu center{
+color:#fff;
+}
+
+#menu p{
+float:right;
+padding:0 0 10 0;
+margin:5 40 0 0;
+font-family:Franklin Gothic Medium Cond;
+}
+
+#menu p a{
+color:#aaafff;
+}
+
+#menu tr:hover{
+background-color:#ff00ff;
+color:#fff;
+}
+
+#menu center{
+padding:10 0 20 0;
+font-family:Adobe Gothic Std B;
+}
+
+#t{
+clear:both;
+margin:0 0 0 149;
+}
+
+#footer{
+border:solid 5px #000;
+height:100;
+float:left;
+width:1257;
+}
+#footer h1{
+float:left;
+border-right:solid 4px #000;
+margin:30 6 3 45;
+padding:0 10 0 10;
+}
+
+#footer p{
+margin:27 20 0 30;
+}
+
+#footer h4{
+ margin:0 20 30 45;
+}
+
+#footer a{
+text-decoration:none;
+list-style:none;
+color:#0fffae;
+}
+
+#footer a:hover{
+font-size:40;
+color:#fff;
+font-weight:800;
+}
+
+#footer img{
+float:right;
+margin:0 100 0 400;
+}
